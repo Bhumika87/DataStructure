@@ -29,6 +29,10 @@ class Graph{
        }
     }
 
+     public List<List<Integer>> getAdj() {
+        return adjList;
+    }
+
     public static void main(String[]args){
 
         Graph graph = new Graph(4);
