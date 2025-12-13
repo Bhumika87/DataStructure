@@ -1,4 +1,4 @@
-package Graph.String;
+package String;
 
 public class palindrome {
     public boolean isPalindrome(String s){
