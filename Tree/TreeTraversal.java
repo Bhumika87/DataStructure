@@ -1,2 +1,4 @@
-package Tree;public class TreeTraversal {
+package Tree;
+
+public class TreeTraversal {
 }
